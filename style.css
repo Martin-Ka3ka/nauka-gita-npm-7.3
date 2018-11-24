@@ -1,0 +1,27 @@
+body {
+	margin:0;
+	background-color: yellow;
+	
+}
+
+.first, .chorus, .second {
+	margin-right: 80px;
+    margin-left: 80px;
+}
+
+h1 {
+	color:pink;
+	text-align: center;
+	text-shadow: blue;
+}
+
+h2 {
+	text-align: center;
+    color:red;
+}
+
+h3 {
+	text-align: center;
+	color: blue;
+
+}
